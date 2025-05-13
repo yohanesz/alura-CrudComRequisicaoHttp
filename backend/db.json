@@ -1,112 +1,34 @@
 {
   "pensamentos": [
     {
-      "id": "4c7d",
-      "favorito": false,
-      "conteudo": "Da vida reclama, mas sem ela não vive!",
-      "autoria": "Mestre Yoda",
-      "data": "2025-05-12T00:00:00.000Z"
+      "id": "2e24",
+      "conteudo": "          teste",
+      "autoria": "teste",
+      "data": "2025-05-13T00:00:00.000Z"
     },
     {
-      "id": "68uy",
-      "favorito": false,
-      "conteudo": "Esse é de laranja que parece de limão, mas tem gosto de tamarindo!",
-      "autoria": "Chaves",
-      "data": "2025-05-12T00:00:00.000Z"
-    },
-    {
-      "id": "b807",
-      "favorito": false,
-      "conteudo": "Melhor professor, o fracasso é!",
-      "autoria": "Mestre Yoda",
-      "data": "2025-05-12T00:00:00.000Z"
-    },
-    {
-      "id": "9f3c",
-      "favorito": false,
-      "conteudo": "Você não é todo mundo!",
-      "autoria": "Mãe",
-      "data": "2025-05-12T00:00:00.000Z"
-    },
-    {
-      "id": "6a2b",
-      "favorito": false,
-      "conteudo": "Foi sem querer querendo!",
-      "autoria": "Chaves",
-      "data": "2025-05-12T00:00:00.000Z"
-    },
-    {
-      "id": "7e2a",
-      "favorito": false,
-      "conteudo": "Que a força esteja com você!",
-      "autoria": "Mestre Yoda",
-      "data": "2025-05-12T00:00:00.000Z"
-    },
-    {
-      "id": "5c8f",
-      "favorito": false,
-      "conteudo": "Resolver o bug não consegue? Esfriar a cabeça vc deve.",
-      "autoria": "Mestre Yoda",
-      "data": "2025-05-12T00:00:00.000Z"
-    },
-    {
-      "id": "2d6e",
-      "favorito": false,
-      "conteudo": "Não faça drama, faça café! :)",
-      "autoria": "Dev",
-      "data": "2025-05-12T00:00:00.000Z"
-    },
-    {
-      "id": "3f1a",
-      "favorito": false,
-      "conteudo": "Conserta minha impressora?",
-      "autoria": "Grupo da família",
-      "data": "2025-05-12T00:00:00.000Z"
-    },
-    {
-      "id": "8b4c",
-      "favorito": false,
-      "conteudo": "A vingança nunca é plena... mata a alma e a envenena...",
-      "autoria": "Seu Madruga",
-      "data": "2025-05-12T00:00:00.000Z"
-    },
-    {
-      "id": "584a",
-      "favorito": false,
-      "conteudo": "Na minha máquina funciona!",
-      "autoria": "Dev",
-      "data": "2025-05-12T00:00:00.000Z"
-    },
-    {
-      "id": "e931",
-      "favorito": false,
-      "conteudo": "dada          ",
-      "autoria": "dada",
-      "data": "2025-05-12T00:00:00.000Z"
-    },
-    {
-      "id": "257a",
-      "conteudo": "          aaaa",
+      "id": "1405",
+      "conteudo": "          aaaaa",
       "autoria": "aaaaa",
-      "data": "2025-05-12"
+      "data": "2025-05-13T00:00:00.000Z"
     },
     {
-      "id": "4f41",
-      "conteudo": "          bbbbbbbbbbb",
-      "autoria": "bbbbbbbbbbbbbbb",
+      "id": "0788",
+      "conteudo": "          bbb",
+      "autoria": "bbbb",
       "data": "2025-05-12T00:00:00.000Z"
     },
     {
-      "id": "2c8b",
-      "conteudo": "a123",
-      "autoria": "a123",
-      "data": "2025-05-01T00:00:00.000Z"
+      "id": "8568",
+      "conteudo": "rrrrrrrrrrrrr",
+      "autoria": "asdadad",
+      "data": "2025-05-05T00:00:00.000Z"
     },
     {
-      "id": "5d51",
-      "conteudo": "dddddddddddd          ",
-      "autoria": "dddddddddd",
-      "data": "2025-05-02T00:00:00.000Z"
+      "id": "164b",
+      "conteudo": "          gggggggg",
+      "autoria": "gggggggggg",
+      "data": "2025-05-01T00:00:00.000Z"
     }
   ]
 }
